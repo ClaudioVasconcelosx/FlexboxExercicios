@@ -1,0 +1,38 @@
+.container {
+    max-width: 1000px;
+    height: 100vh;
+   
+    margin: 0 auto;
+    border: 3px solid #000;
+    background-color: #108776;
+}
+
+img {
+    width: 180px;
+    margin: 0 auto;
+    display: flex;
+}
+.tab {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.frog-green{
+    display: flex;
+    background-color: #4ddb5274;;
+    border-radius: 50%;
+    margin: 10px;
+    width: 180px;
+
+}
+.teste {
+    justify-content: flex-end;
+}
+
+.resposta {
+    display: block;
+    font-size: 24px;
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+}
